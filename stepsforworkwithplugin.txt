@@ -1,0 +1,6 @@
+config as per my pom.xml
+
+mavn updat
+mvn clean
+mvn install
+mvn test
